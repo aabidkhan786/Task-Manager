@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h1{
+  font-family: 'Playfair Display SC', serif;
+}
+h6,label{
+  font-family: 'Ubuntu', sans-serif;
+}
+
